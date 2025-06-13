@@ -215,4 +215,6 @@ This project uses code from the [Trezor project](https://github.com/trezor/trezo
 ## License
 This project is licensed under the [MIT License](/LICENSE)
 
-Update: link is live and functioning
+
+
+Update:  13 June 2025 Fixed navigation menu link errors
